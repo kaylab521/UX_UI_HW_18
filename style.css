@@ -41,7 +41,7 @@ footer li {
 }
 /*hero section*/
 .heroImg {
-  background-color: #87468F;
+  background-color: #0d0d0d;
   padding: 100px 16px;
   width: 100%;
 }
@@ -141,7 +141,7 @@ button {
 
 /*contact section*/
 .contact {
-  background-color: #87468F;
+  background-color: #0d0d0d;
   width: 100%;
   display: inline-block;
   text-align: center;

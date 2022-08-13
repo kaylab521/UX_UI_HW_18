@@ -123,7 +123,7 @@ button {
 .flexContainer {
   display: flex;
   flex-direction: row;
-  rows: 33% 33% 33%;
+  grid-template-rows: 33% 33% 33%;
 }
 .flexContainer div {
   width: 33%;
@@ -160,7 +160,7 @@ p {
   font-size: 16pt;
 }
 h1, .heading {
-  font-size: 32pt;;
+  font-size: 32pt;
 }
 h3 {
   font-size: 16pt;
